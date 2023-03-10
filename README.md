@@ -2,7 +2,7 @@
 
 ## 💻 Project
 
-Creating a test routine for a Pokédex application using React Testing Library.v
+Creating a test routine for a Pokédex application using React Testing Library.
 
 ## 🚀 Built With
 
