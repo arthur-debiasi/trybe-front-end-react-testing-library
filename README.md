@@ -6,7 +6,7 @@ Creating a test routine for a Pokédex application using React Testing Library.v
 
 ## 🚀 Built With
 
-> [![Javascript][Javascript]][Javascript-url][![React][React.js]][React-url][![React Router][ReactRouter]][ReactRouter-url]
+> [![Javascript][Javascript]][Javascript-url][![React][React.js]][React-url][![React Testing Library][TestingLibrary]][TestingLibrary-url]
 
 
 ## 📌 Skills
@@ -66,4 +66,6 @@ Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais
 [ReactRouter-url]: https://reactrouter.com/en/main
 [MUI]: https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white
 [MUI-url]: https://img.shields.io/badge/material_ui-007FFF?style=for-the-badge&logo=mui&logoColor=white
+[TestingLibrary]: https://img.shields.io/badge/React_Testing_Library-20232A?style=for-the-badge&logo=testinglibrary&logoColor=E33332
+[TestingLibrary-url]: https://testing-library.com/docs/react-testing-library/intro/
 
