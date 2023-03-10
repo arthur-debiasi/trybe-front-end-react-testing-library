@@ -1,4 +1,4 @@
-# [Trybe](https://www.betrybe.com/) Project - [Front-end Online Store](deploy).
+# [Trybe](https://www.betrybe.com/) Project - [React Testing Library](deploy).
 
 ## 💻 Project
 
@@ -36,7 +36,7 @@ npm start
 And then run the tests:
 
 ```bash
-npm start
+npm test
 ``` 
 To "test the tests", that is, to verify if the tests created are really fulfilling their role, the [Stryker Mutator](https://stryker-mutator.io) library was used. To run it, use the command below for each of the configuration files located in the `./stryker folder`:
 
